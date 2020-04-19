@@ -1,6 +1,19 @@
 ## ss-plugins.sh (注意：如果运行脚本出现意外报错，请执行 ./ss-plugins.sh script 升级脚本。)
 
-配套客户端：https://github.com/shadowsocks/v2ray-plugin-android
+使用方法：
+
+    安装ss-libev或ss-rust,即ss服务端
+    安装v2ray-plugin的http模式
+    修改ss配置：路径 /etc/shadowsocks/config.json
+
+服务端搭建：
+
+    搭建脚本：https://github.com/forkm/Shell
+    插件下载：https://github.com/shadowsocks/v2ray-plugin/releases
+
+对应的安卓客户端：
+
+    https://github.com/forkm/v2ray-plugin-android
 
 #### 下载安装:
 ``` bash
