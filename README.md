@@ -1,5 +1,7 @@
 ## ss-plugins.sh (注意：如果运行脚本出现意外报错，请执行 ./ss-plugins.sh script 升级脚本。)
 
+配套客户端：https://github.com/shadowsocks/v2ray-plugin-android
+
 #### 下载安装:
 ``` bash
 wget -N --no-check-certificate -c -t3 -T60 -O ss-plugins.sh https://git.io/fjlbl
